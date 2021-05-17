@@ -1,0 +1,8 @@
+header {background : url(https://static.wixstatic.com/media/9581dd_0aa54b6b0e6f4f4b95009a2abce96cd2~mv2.png/v1/fill/w_199,h_55,al_c,usm_0.66_1.00_0.01/header_sitio_web_logo_2.png) ;
+        background-repeat: no-repeat;}
+
+ body {background : url(https://image.freepik.com/foto-gratis/doctor-estetoscopio-manos-fondo-hospital_1423-1.jpg);
+    background-repeat: repeat; * /* no repite la imagen de fondo*/
+    }
+  
+    

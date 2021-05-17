@@ -1,0 +1,38 @@
+/*body{background-color: blueviolet;} /*color de fondo/* */
+div{background-color:darkkhaki ;}
+.mainmenubtn {
+    background-color: skyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
+.mainmenubtn:hover {
+    background-color: blue;<li class=" odd">
+    }
+.dropdown {
+    position: relative;
+    display:
+}
+.dropdown-child {
+    display: none;
+    background-color: skyblue;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: blue;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+
+
+body{ background : url(https://static.wixstatic.com/media/9581dd_0aa54b6b0e6f4f4b95009a2abce96cd2~mv2.png/v1/fill/w_199,h_55,al_c,usm_0.66_1.00_0.01/header_sitio_web_logo_2.png);
+      background-repeat: no-repeat; * /* no repite la imagen de fondo*/
+      }
+
+
